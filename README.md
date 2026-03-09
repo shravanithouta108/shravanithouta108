@@ -6,7 +6,9 @@
 
 
 ## 👇 About Me:
-- 🔭 I’m currently working on Web projects using HTML, CSS, and JavaScript to build my portfolio.
+- 🔭 Currently, I'm doing my Masters in Computer Application[MCA]. 
+
+- 🔭 Worked on Web projects using HTML, CSS, and JavaScript to build my portfolio.
 
 - 👯 I’m looking to collaborate on Web development or beginner-friendly open-source projects.
 
@@ -15,7 +17,7 @@
 - 🌱 I’m currently learning JavaScript, DOM, Git & GitHub, and exploring React.js.
 
 - 💬 Ask me about:
-  HTML, CSS, C, C++, SQL, and DBMS fundamentals.
+  C, C++, Java, SQL, HTML,CSS, DBMS fundamentals.
 
 - ⚡ Fun fact:
   I love turning simple ideas into working code—it’s like solving fun puzzles!
