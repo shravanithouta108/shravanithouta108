@@ -6,15 +6,11 @@
 
 
 ## 👇 About Me:
-- 🔭 Currently, I'm doing my Masters in Computer Application[MCA]. 
+- 🎓 Currently, I'm doing my Masters in Computer Application[MCA]. 
 
 - 🔭 Worked on Web projects using HTML, CSS, and JavaScript to build my portfolio.
 
-- 👯 I’m looking to collaborate on Web development or beginner-friendly open-source projects.
-
-- 🤝 I’m looking for help with JavaScript, frontend frameworks, and real-world project experience.
-
-- 🌱 I’m currently learning JavaScript, DOM, Git & GitHub, and exploring React.js.
+- 🌱 I’m currently learning JavaScript, DOM, Git & GitHub.
 
 - 💬 Ask me about:
   C, C++, Java, SQL, HTML,CSS, DBMS fundamentals.
